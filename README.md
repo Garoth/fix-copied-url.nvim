@@ -1,3 +1,8 @@
+#### WARNING - Under Development - Known Issues
+
+* Needs to be stricter about matching only URL
+* If URL is inside big selection, all whitespace in selection is lost
+
 ## Remove Spaces From Copied URL Automatically (Neovim)
 
 There are some unfortunate situations where you might have whitespace in
